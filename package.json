@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-crud-test",
+  "version": "1.0.0",
+  "description": "a simple assessment response from 2018",
+  "main": "tasks.js",
+  "dependencies": {
+    "axios": "^0.17.1",
+    "config": "^1.29.4",
+    "mongoose": "^5.0.4",
+    "restify": "^6.3.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "therightstuff",
+  "license": "ISC"
+}
